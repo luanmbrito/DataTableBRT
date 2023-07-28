@@ -1,7 +1,5 @@
 # DataTableBRT
 
-[TOC]
-
 
 Esse plugin foi criado para criação de tabelas editaveis de forma dinamica.
 Ele te da a possibilidade de criar tabelas em branco ou enviando um formato json para ele.
@@ -21,6 +19,7 @@ você pode passar o id ou a classe do elemento pai onde irá ser criado a tabela
 agora você cria ou uma tabela em branco 
 ```html
 table.createGridTable(param1,param2,{param3} /* opcional */)
+
 // param1 : quantidade de linhas a serem criadas
 // param2 : quantidade de colunas a serem criadas 
 /* param3 : json com o estilo dos elementos 
