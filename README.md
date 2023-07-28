@@ -1,7 +1,5 @@
 # DataTableBRT
 
-[TOC]
-
 Esse plugin foi criado para criação de tabelas editaveis de forma dinamica.
 Ele te da a possibilidade de criar tabelas em branco ou enviando um formato json para ele.
 
